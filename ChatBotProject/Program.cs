@@ -14,6 +14,7 @@ namespace ChatBotProject
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
         }
     }
     public class ChatBot
